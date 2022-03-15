@@ -1,0 +1,88 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    width: 20%;
+    color: white;
+}
+.fab{
+    color: white;
+    display: flex;
+}
+header{
+    background-color: brown;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+.fab{
+    color: white;
+}
+.events{
+background: url(./ASSETS/Images/group-1.jpg) no-repeat 50% 50%;
+background-size: cover;
+color: white;
+justify-content: center;
+text-align: center;
+vertical-align: top;
+padding: 15%;
+
+
+
+}
+.transparent{
+background-color: rgba(250,250,250,0.5);
+width: 70%;
+text-align: center;
+padding: 4%;
+
+}
+.a{
+    display: inline;
+    font-size: 1.8vh;
+    
+    
+}
+.b{
+    display: inline;
+    float: right;
+    vertical-align: top;
+    margin-left: 50%;
+    margin-top: -15%;
+}
+.icone{
+    filter: invert(100%);
+}
+.ia{
+ text-align: center;
+ color:#d35649 ;
+ font-size: 25px;
+}
+.partie2{
+    background-color:#d35649 ;
+}
+.img{
+    border-radius: 50%;
+    margin-left: 70%;
+}
+.dg{
+color: white;
+}
+.img2{
+    border-radius: 50%;
+    margin-left:70% ;
+}
+.fb{
+    background-color:#98a5a5;
+}
+.clc{
+    background-color:#509bd7; ;
+}
+.img3{
+    border-radius:50% ;
+    margin-left:70% ;
+}
+
+
+
